@@ -5,6 +5,19 @@ Raccolta di risorse utili su tecnologia Distributed Ledger Technology (DLT).
 
 ## Corsi. tutorial altre risorse su DLT e blockchain
 
+*Visual blockchain/bitcoin demo by anders94*
+
+A web-based demonstration of blockchain concepts.
+This is a very basic visual introduction to the concepts behind a blockchain. We introduce the idea of an immutable ledger using an interactive web demo that is available here:
+
+[Tech talk at DXPortugal/OSCAMP (downloadable video and slide on MSDN Channel9)](https://channel9.msdn.com/events/DXPortugal/OSCAMP-Open-Source-Software-powered-by-Bright-Pixel/Blockchain-Fundamentals?term=Blockchain%20101)
+
+
+[Live Demo http://anders.com/blockchain/](http://anders.com/blockchain/)
+
+[GitHub Repository - https://github.com/anders94/blockchain-demo](https://github.com/anders94/blockchain-demo)
+
+
 *MSDN Channel9 - First Look Into Blockchain*
 
 Blockchain is an emerging way for businesses, industries, and public organizations to almost instantaneously make and verify transactions — streamlining business processes, saving money, and reducing the potential for fraud.
