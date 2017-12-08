@@ -34,7 +34,9 @@ This course will teach you how to get productive with blockchain development qui
 
 [Breakout CLD424](https://channel9.msdn.com/Events/Ignite/Australia-2017/CLD424)
 
+*MVA Microsoft Blockchain as a Service*
 
+https://mva.microsoft.com/en-US/training-courses/17104?l=aZrQbG3SD_3206218965
 
 ### Smart Contracts
 
