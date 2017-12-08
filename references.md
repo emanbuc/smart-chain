@@ -8,9 +8,10 @@ https://www.pluralsight.com/courses/blockchain-fundamentals
 ### Smart Contracts
 [Smart Contract su Ethereum](https://etherevolution.eu/ethereum-smart-contract/)
 
-[Scenario ùSmart Contract Assicurazione](https://etherevolution.eu/assicurazione-su-ethereum/)
+[Scenario Smart Contract Assicurazione](https://etherevolution.eu/assicurazione-su-ethereum/)
 
 https://etherevolution.eu/smart-contract-migliorare-nel-2017/
+
 https://etherevolution.eu/leggende-metropolitane-smart-contracts/
 
 ## Piattaforme disponibili
