@@ -22,6 +22,7 @@ This course will teach you how to get productive with blockchain development qui
 [Breakout CLD424](https://channel9.msdn.com/Events/Ignite/Australia-2017/CLD424)
 
 
+
 ### Smart Contracts
 
 he phrase "smart contracts" was coined by Nick Szabo in 1996, and reworked over several years. Szabo's first publication, "Smart Contracts: Building Blocks for Digital Free Markets" was published in Extropy #16
@@ -104,6 +105,13 @@ https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot
 
 ## Microsoft Azure Blockchain
 
+https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK2177?term=Blockchain%20101%20
+
+https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK2179?term=Blockchain%20101%20
+
+https://channel9.msdn.com/events/Build/2017/B8009?term=Blockchain%20101%20
+
+
 https://github.com/Azure/azure-blockchain-projects
 
 https://github.com/Azure/azure-quickstart-templates/tree/master/ethereum-consortium-blockchain-network
@@ -143,10 +151,24 @@ After reading this article, you will:
 https://azure.microsoft.com/en-us/blog/announcing-microsoft-s-coco-framework-for-enterprise-blockchain-networks/
 https://github.com/Azure/coco-framework
 http://www.zdnet.com/article/microsoft-debuts-coco-framework-to-improve-blockchain-performance-privacy/
+https://channel9.msdn.com/Blogs/Seth-Juarez/Inside-Coco-Framework-the-Foundation-of-Blockchain-for-Enterprise-with-Mark-Russinovich?term=Blockchain%20101%20
 
-## Varie
+## Varie (da classificare/organizzare)
 
 https://letstalkpayments.com/3-companies-leading-the-blockchain-as-a-service-baas-revolution/
+https://channel9.msdn.com/events/Journey-to-the-Websummit--Online-Masterclasses/Blockchains--Current-state-and-Roadmap-Cale-Teeter-Microsoft-Azure-TED-Team/Blockchains--Current-state-and-Roadmap-Cale-Teeter-Microsoft-Azure-TED-Team?term=Blockchain
+https://channel9.msdn.com/events/Build/2017/T6979?term=Blockchain
+https://channel9.msdn.com/events/Build/2017/T6985?term=Blockchain
+https://channel9.msdn.com/events/CXO-NEXT-Summit/CXO-Summit-2017/2017CXO005?term=Blockchain
+https://channel9.msdn.com/events/Ignite/Australia-2017/CLD424?term=Blockchain
+https://channel9.msdn.com/Blogs/Taste-of-Premier/ToP1712?term=Blockchain%20101%20
+https://channel9.msdn.com/events/Build/2017/T6044?term=Blockchain%20101%20
+https://channel9.msdn.com/events/DXPortugal/OSCAMP-Open-Source-Software-powered-by-Bright-Pixel/Blockchain-Fundamentals?term=Blockchain%20101%20
+https://channel9.msdn.com/events/TechDaysOnline/MVP-Led-TechDays-Online-February-2017/Bootstrapping-blockchain?term=Blockchain%20101%20
+https://channel9.msdn.com/Shows/codechat/069?term=Blockchain%20101%20
+https://channel9.msdn.com/Blogs/Seth-Juarez/An-Introduction-to-Blockchain-with-Mark-Russinovich?term=Blockchain%20101%20
+https://channel9.msdn.com/Shows/Azure-Power-Lunch/Blockchain-101?term=Blockchain%20101%20
+https://channel9.msdn.com/events/Ignite/Australia-2017/CLD213?term=Blockchain%20101%20
 
 
 
