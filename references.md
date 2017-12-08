@@ -118,7 +118,32 @@ https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot
 
 ## Microsoft Azure Blockchain
 
-https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK2177?term=Blockchain%20101%20
+### The Microsoft vision for Blockchain
+Microsoft Ignite 2017 (Orlando, Oct 11, 2017)
+
+[BRK2177 Breakout video](https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK2177)
+
+Topics:
+
+- Intro su LDT e su reti pubbliche e private.
+- Scenari business legati a LDT
+    - food supply chain scenario
+    - food contamination scenario
+- Enterprises and blockchain
+- Smart Contracts
+- Build bockchain application 
+- Blockchain projects
+    - is blockchain appropriate for my project?
+- Industrial sector and blockchain application
+- Deploy blockchain application (from test to production)
+- How to translate workflow in a Smart Contract
+- Smart Contract Application architecture 
+- Integrazione con infrastruttura ed applicazioni esistenti
+- Demo applicazione web crezione e gestione smartcontract
+
+
+### Others ...
+
 
 https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK2179?term=Blockchain%20101%20
 
