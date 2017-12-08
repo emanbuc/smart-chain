@@ -1,9 +1,26 @@
 # Distributed Ledger Technology (DLT) resources
 Raccolta di risorse utili su tecnologia Distributed Ledger Technology (DLT).
 
-## Corsi e altre risorse non riferiti ad una specifica piattaforma
 
-https://www.pluralsight.com/courses/blockchain-fundamentals
+
+## Corsi. tutorial altre risorse su DLT e blockchain
+
+*MSDN Channel9 - First Look Into Blockchain*
+
+Blockchain is an emerging way for businesses, industries, and public organizations to almost instantaneously make and verify transactions — streamlining business processes, saving money, and reducing the potential for fraud.
+
+[Channel9 ToP1712](https://channel9.msdn.com/Blogs/Taste-of-Premier/ToP1712)
+
+*Pluralsight - Blockchain Fundamentals*
+
+This course will teach you how to get productive with blockchain development quickly in a practical way. The focus is on Ethereum development and the concepts presented is equally relevant to other implementations.
+
+[Blockchain Fundamentals](https://www.pluralsight.com/courses/blockchain-fundamentals)
+
+*Blockchain Development on Azure Blockchain as a Service*
+
+[Breakout CLD424](https://channel9.msdn.com/Events/Ignite/Australia-2017/CLD424)
+
 
 ### Smart Contracts
 
@@ -101,7 +118,6 @@ https://blogs.technet.microsoft.com/uktechnet/2017/06/29/using-microsoft-azure-t
 
 https://channel9.msdn.com/Events/TechDaysOnline/MVP-Led-TechDays-Online-February-2017/Bootstrapping-blockchain
 
-https://channel9.msdn.com/Events/Ignite/Australia-2017/CLD424
 
 https://blockchaingers.org/posts/getting-started-with-azure-blockchain-as-a-service
 
@@ -109,7 +125,6 @@ https://azure.microsoft.com/it-it/resources/templates/?term=blockchain
 
 https://letstalkpayments.com/3-companies-leading-the-blockchain-as-a-service-baas-revolution/
 
-https://channel9.msdn.com/Blogs/Taste-of-Premier/ToP1712
 
 ## Microsoft Azure -  Ethereum Consortium Blockchain
 https://etherevolution.eu/rapporto-ethereum-microsoft/
@@ -133,6 +148,5 @@ http://www.zdnet.com/article/microsoft-debuts-coco-framework-to-improve-blockcha
 
 https://letstalkpayments.com/3-companies-leading-the-blockchain-as-a-service-baas-revolution/
 
-https://www.pluralsight.com/courses/blockchain-fundamentals
 
-https://channel9.msdn.com/Blogs/Taste-of-Premier/ToP1712
+
