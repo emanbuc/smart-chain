@@ -207,6 +207,7 @@ After reading this article, you will:
 - https://channel9.msdn.com/Blogs/Seth-Juarez/An-Introduction-to-Blockchain-with-Mark-Russinovich?term=Blockchain%20101%20
 - https://channel9.msdn.com/Shows/Azure-Power-Lunch/Blockchain-101?term=Blockchain%20101%20
 - https://channel9.msdn.com/events/Ignite/Australia-2017/CLD213?term=Blockchain%20101%20
+- https://www.youtube.com/watch?v=pkcOVaxrHcY
 
 
 
