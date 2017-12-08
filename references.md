@@ -1,23 +1,42 @@
 # Distributed Ledger Technology (DLT) resources
 Raccolta di risorse utili su tecnologia Distributed Ledger Technology (DLT).
 
-## Piattaforme disponibili
-
-- Blockchain di IBM -> https://developer.ibm.com/blockchain/
-- Blockchain di Microsoft Azure -> https://azure.microsoft.com/it-it/solutions/blockchain/
-- Ethereum Project -> https://www.ethereum.org/
-- Siachain di SIA -> https://www.sia.eu/it/innovazione/siachain
-- Notarchain  del Consiglio Nazionale del Notariato ->  http://www.notariato.it/it/content/il-notariato-presenta-%E2%80%9Cnotarchain%E2%80%9D-la-blockchain-certificata-dei-notai-e-i-registri 
-
-## Tutorial ed esempi
-
-https://letstalkpayments.com/3-companies-leading-the-blockchain-as-a-service-baas-revolution/
+## Corsi e altre risorse non riferiti ad una specifica piattaforma
 
 https://www.pluralsight.com/courses/blockchain-fundamentals
 
-https://channel9.msdn.com/Blogs/Taste-of-Premier/ToP1712
+## Piattaforme disponibili
 
- 
+Elenco delle piattaforme DLT disponibili.
+
+### Blockchain di IBM
+
+https://developer.ibm.com/blockchain/
+
+### Blockchain su Microsoft Azure
+
+https://azure.microsoft.com/it-it/solutions/blockchain/
+https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-service?tab=Overview
+https://azure.microsoft.com/en-us/blog/introducing-enterprise-smart-contracts/
+
+
+### Ethereum Project
+
+https://www.ethereum.org/
+
+
+### Siachain di SIA
+
+https://www.sia.eu/it/innovazione/siachain
+
+### Notarchain 
+
+del Consiglio Nazionale del Notariato
+http://www.notariato.it/it/content/il-notariato-presenta-%E2%80%9Cnotarchain%E2%80%9D-la-blockchain-certificata-dei-notai-e-i-registri 
+
+## Tutorial ed esempi
+
+Tutorial, esempi e casi di studio sulle varie piataforme
 
 ### Multichain
 
@@ -38,27 +57,15 @@ https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot
 
 
 
-## Microsoft COCO framework and Blockchain SaaS
-
-https://azure.microsoft.com/it-it/solutions/blockchain/
+## Microsoft Azure Blockchain
 
 https://github.com/Azure/azure-blockchain-projects
 
 https://github.com/Azure/azure-quickstart-templates/tree/master/ethereum-consortium-blockchain-network
 
-https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-service?tab=Overview
-
-https://azure.microsoft.com/en-us/blog/announcing-microsoft-s-coco-framework-for-enterprise-blockchain-networks/
-
-https://azure.microsoft.com/en-us/blog/introducing-enterprise-smart-contracts/
-
 https://azure.microsoft.com/en-gb/blog/azure-introduces-a-new-blockchain-proof-of-concept-framework-for-developers/
 
 https://azure.microsoft.com/en-in/blog/announcing-support-for-additional-blockchain-protocols-on-azure/
-
-https://github.com/Azure/coco-framework
-
-http://www.zdnet.com/article/microsoft-debuts-coco-framework-to-improve-blockchain-performance-privacy/
 
 http://www.thewindowsclub.com/blockchain-microsoft-plans-develop-service
 
@@ -72,4 +79,20 @@ https://blockchaingers.org/posts/getting-started-with-azure-blockchain-as-a-serv
 
 https://azure.microsoft.com/it-it/resources/templates/?term=blockchain
 
-https://dzone.com/articles/developing-your-first-block-chain-part-1
+https://letstalkpayments.com/3-companies-leading-the-blockchain-as-a-service-baas-revolution/
+
+https://channel9.msdn.com/Blogs/Taste-of-Premier/ToP1712
+
+## Microsoft COCO Framework
+
+https://azure.microsoft.com/en-us/blog/announcing-microsoft-s-coco-framework-for-enterprise-blockchain-networks/
+https://github.com/Azure/coco-framework
+http://www.zdnet.com/article/microsoft-debuts-coco-framework-to-improve-blockchain-performance-privacy/
+
+## Varie
+
+https://letstalkpayments.com/3-companies-leading-the-blockchain-as-a-service-baas-revolution/
+
+https://www.pluralsight.com/courses/blockchain-fundamentals
+
+https://channel9.msdn.com/Blogs/Taste-of-Premier/ToP1712
