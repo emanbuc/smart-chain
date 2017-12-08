@@ -6,6 +6,9 @@ Raccolta di risorse utili su tecnologia Distributed Ledger Technology (DLT).
 https://www.pluralsight.com/courses/blockchain-fundamentals
 
 ### Smart Contracts
+
+he phrase "smart contracts" was coined by Nick Szabo in 1996, and reworked over several years. Szabo's first publication, "Smart Contracts: Building Blocks for Digital Free Markets" was published in Extropy #16
+
 [Smart Contract su Ethereum](https://etherevolution.eu/ethereum-smart-contract/)
 
 [Scenario Smart Contract Assicurazione](https://etherevolution.eu/assicurazione-su-ethereum/)
