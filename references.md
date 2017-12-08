@@ -9,7 +9,7 @@ Raccolta di risorse utili su tecnologia Distributed Ledger Technology (DLT).
 - Siachain di SIA -> https://www.sia.eu/it/innovazione/siachain
 - Notarchain  del Consiglio Nazionale del Notariato ->  http://www.notariato.it/it/content/il-notariato-presenta-%E2%80%9Cnotarchain%E2%80%9D-la-blockchain-certificata-dei-notai-e-i-registri 
 
-## Tutorial, esempi ed altre risorse
+## Tutorial ed esempi
 
 https://letstalkpayments.com/3-companies-leading-the-blockchain-as-a-service-baas-revolution/
 
@@ -19,18 +19,18 @@ https://channel9.msdn.com/Blogs/Taste-of-Premier/ToP1712
 
  
 
-## Multichain
+### Multichain
 
 https://dzone.com/articles/developing-your-first-block-chain-part-1
 
 
-## Ethereum
+### Ethereum
 
 https://media.consensys.net/how-to-build-a-private-ethereum-blockchain-fbf3904f337
 
 http://chainskills.com/2017/02/24/create-a-private-ethereum-blockchain-with-iot-devices-16/
 
-## IBM Blockchain
+### IBM Blockchain
 
 https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot-apps-trs/index.html
 https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot-apps2/index.html
