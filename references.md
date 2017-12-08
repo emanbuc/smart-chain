@@ -5,6 +5,14 @@ Raccolta di risorse utili su tecnologia Distributed Ledger Technology (DLT).
 
 https://www.pluralsight.com/courses/blockchain-fundamentals
 
+### Smart Contracts
+[Smart Contract su Ethereum](https://etherevolution.eu/ethereum-smart-contract/)
+
+[Scenario ùSmart Contract Assicurazione](https://etherevolution.eu/assicurazione-su-ethereum/)
+
+https://etherevolution.eu/smart-contract-migliorare-nel-2017/
+https://etherevolution.eu/leggende-metropolitane-smart-contracts/
+
 ## Piattaforme disponibili
 
 Elenco delle piattaforme DLT disponibili.
@@ -20,10 +28,26 @@ https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-bl
 https://azure.microsoft.com/en-us/blog/introducing-enterprise-smart-contracts/
 
 
-### Ethereum Project
+### Ethereum
 
 https://www.ethereum.org/
 
+[Ether VS Bitcoin](https://etherevolution.eu/perche-comprare-ether/)
+
+
+
+## Enterprise Ethereum Alliance
+
+https://entethalliance.org 
+https://entethalliance.org/wp-content/themes/ethereum/img/intro-eea.pdf
+
+*Mission:*
+
+A clear roadmap for enterprise features and requirements
+
+Robust governance model and accountability, clarity around IP and licensing models for open source technology
+
+Resources for businesses to learn about Ethereum and leverage this groundbreaking technology to address specific industry use cases
 
 ### Siachain di SIA
 
@@ -82,6 +106,18 @@ https://azure.microsoft.com/it-it/resources/templates/?term=blockchain
 https://letstalkpayments.com/3-companies-leading-the-blockchain-as-a-service-baas-revolution/
 
 https://channel9.msdn.com/Blogs/Taste-of-Premier/ToP1712
+
+## Microsoft Azure -  Ethereum Consortium Blockchain
+https://etherevolution.eu/rapporto-ethereum-microsoft/
+https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-azure-blockchain.azure-blockchain-service?tab=PlansAndPrice
+
+*Ethereum Consortium Network Deployments Made Easy*
+https://gallery.technet.microsoft.com/Bletchley-Ethereum-be397219/file/159927/4/Ethereum%20Consortium%20Network%20Deployments%20Made%20Easy%20-%2010-19-2016.pdf
+
+After reading this article, you will:
+- Obtain working knowledge of blockchain, Ethereum, and one consortium network architecture
+- Learn how to deploy and configure a multi-node Ethereum consortium network with the published ARM template 
+
 
 ## Microsoft COCO Framework
 
