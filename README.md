@@ -28,7 +28,9 @@ https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot
 https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot-apps2/index.html
 https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot-apps-trs/cl-blockchain-for-cognitive-iot-apps-trs-pdf.pdf
 
+##Riferimenti
 
+Raccolta di [riferimenti](references.md) utili su Distributed Ledger Technology (DLT)
 
  
 
