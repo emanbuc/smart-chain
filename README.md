@@ -22,13 +22,24 @@ A titolo di esempio cito alcune piattaforme su cui devo approfondire lo studio
 
 
 ## Implementare PoC (Parte #4)
-I vendor delle varie piattaforme stanno investendo molto per guadagnare una posizione dominante in un mercato che tra poco diventerà molto esteso. A titolo di esempio riporto un implementazione di esempio proposta da IBM. Se dovessi sviluppare un prototipo sulla piattaforma IBM io partirei al questo esempio: 
 
-https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot-apps-trs/index.html
-https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot-apps2/index.html
-https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot-apps-trs/cl-blockchain-for-cognitive-iot-apps-trs-pdf.pdf
+I vendor delle varie piattaforme stanno investendo molto per guadagnare una posizione dominante in un mercato che tra poco diventerà molto esteso. A titolo di esempio riporto un implementazione di esempio proposta da IBM. 
 
-##Riferimenti
+
+### IBM Blockchain
+
+- https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot-apps-trs/index.html
+- https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot-apps2/index.html
+- https://www.ibm.com/developerworks/cloud/library/cl-blockchain-for-cognitive-iot-apps-trs/cl-blockchain-for-cognitive-iot-apps-trs-pdf.pdf
+
+
+### Azure Blockchain 
+
+[Ethereum Consortium Sample](azure-test-network)
+
+
+
+## Riferimenti
 
 Raccolta di [riferimenti](references.md) utili su Distributed Ledger Technology (DLT)
 
